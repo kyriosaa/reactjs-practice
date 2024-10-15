@@ -1,4 +1,4 @@
-import Accordion from "..Accordion.js";
+import Accordion from "../components/Accordion";
 
 function AccordionPage() {
   const items = [
